@@ -10,7 +10,7 @@ dependencies = [
 
 [[package]]
 name = "tmp"
-version = "0.1.0"
+version = "1.0.0"
 dependencies = [
  "remove_dir_all 0.5.2 (registry+https://github.com/rust-lang/crates.io-index)",
 ]

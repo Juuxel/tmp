@@ -1,6 +1,6 @@
 [package]
 name = "tmp"
-version = "0.1.0"
+version = "1.0.0"
 authors = ["Juuxel <6596629+Juuxel@users.noreply.github.com>"]
 edition = "2018"
 
